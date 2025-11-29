@@ -10,7 +10,7 @@ Fitur utama:
 - Parallel test di 2 browser
 
 
-Membuat skenario success checkout
+Membuat skenario success checkout :
 -Buka web https://www.saucedemo.com/
 -Login dengan 
 -Username : standard_user
